@@ -1,0 +1,10 @@
+Name:
+calCH8
+Serial Number:
+787024
+Unit:
+kPa
+Span:
+0.2
+Zero:
+0

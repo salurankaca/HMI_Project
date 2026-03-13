@@ -1,0 +1,10 @@
+Name:
+calCH7
+Serial Number:
+787154
+Unit:
+kPa
+Span:
+0.2
+Zero:
+0

@@ -1,0 +1,16 @@
+COM:
+3
+Test Name:
+Uji
+Folder Test:
+C:\Users\HRW_PC\Desktop\2026
+Duration:
+300
+Sensor01;calCH1_202603021021;kPa
+Sensor02;calCH2_202603021021;kPa
+Sensor03;calCH3_202603021021;kPa
+Sensor04;calCH4_202603021021;kPa
+Sensor05;calCH5_202603021021;kPa
+Sensor06;calCH6_202603021021;kPa
+Sensor07;calCH7_202603021021;kPa
+Sensor08;calCH8_202603021021;kPa

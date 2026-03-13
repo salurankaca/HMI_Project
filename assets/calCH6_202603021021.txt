@@ -1,0 +1,10 @@
+Name:
+calCH6
+Serial Number:
+787156
+Unit:
+kPa
+Span:
+0.2
+Zero:
+0
